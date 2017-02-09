@@ -1,0 +1,53 @@
+Eclipse:
+To know the version of your java,(file-new-javaproject)
+=================================
+To create a sample program:
+file-new-javaproject-name-ok
+right click on src-class-classname-ok
+====================================
+when you give out put as system.out.println("hello"+c)
+here + is called concator this is called concadination
+
+public class SandeepHello {
+
+	public static void main(String[] args) {
+		System.out.println("Hello sandeep");
+	}
+
+}
+=========================================
+*****************************************************
+if else condition
+-----------------------------------------
+refer If_Else.java file in eclipse
+==========================================
+*************************************
+Where to put semicolun and where not to put semicolun(you will be getting through experience or in general a complete statement will given a semicolun
+EX: int a=10;  ---here it is a complete statment
+==============================================
+
+**************************************
+Relational operators
+******************************
+== equal to, !=not equal to, > greater, < less ,>= greaterthan or equal to,<= lessthan or equal to
+=====================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
